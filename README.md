@@ -1,28 +1,42 @@
 # Magneto-Optical Induction Apparatus (MOIA)
 
-## Multiphysics Experimental Research Platform
+## Independent Multiphysics Experimental Research
 
-The Magneto-Optical Induction Apparatus (MOIA) is a tabletop experimental platform developed to investigate interactions among electromagnetic excitation, optical illumination, polarization effects, photothermal processes, mechanical response, and camera–display re-imaging.
+The Magneto-Optical Induction Apparatus (MOIA) is an independent tabletop experimental platform developed to investigate interactions among electromagnetic excitation, optical illumination, polarization effects, photothermal processes, mechanical response, and camera–display re-imaging.
 
-The project brings together multiple established physical phenomena within a single experimental framework while distinguishing established mechanisms from reported observations, hypotheses, engineering interpretations, and unresolved questions.
+The project integrates multiple established physical phenomena into a single experimental framework while distinguishing established mechanisms from experimental observations, hypotheses, engineering interpretations, and unresolved questions.
+
+---
 
 ## Official Research Record
 
-**Zenodo Version 2.0**
+### Current Release — Version 2.0
 
-DOI: https://doi.org/10.5281/zenodo.21990399
+**Zenodo DOI:**  
+https://doi.org/10.5281/zenodo.21990399
 
-**Previous Zenodo research record**
+**Published:** August 18, 2026
 
-DOI: https://doi.org/10.5281/zenodo.21642330
+**Title:**  
+*Magneto-Optical Induction Apparatus (MOIA): Consolidated Research Record of a Multiphysics Optical and Electromagnetic Experimental Platform*
+
+### Previous Research Record
+
+https://doi.org/10.5281/zenodo.21642330
+
+---
 
 ## Research Status
 
-MOIA is an experimental research project under ongoing investigation.
+MOIA is an ongoing experimental research project.
 
-This repository does not claim discovery of a new fundamental force or physical law. The purpose is to preserve the research record, document observations, identify plausible mechanisms, and enable independent technical review and reproduction.
+The current record does **not** claim discovery of a new fundamental force or physical law.
 
-Some original experimental media are no longer available for direct quantitative re-analysis. Observations without surviving raw measurement data are therefore identified as reported observations rather than independently verified measurements.
+The purpose of this repository is to preserve the research record, document experimental observations, identify plausible physical mechanisms, support independent technical review, and establish a reproducible path toward controlled measurement.
+
+Where original raw media or quantitative measurement data are unavailable, observations are identified accordingly rather than presented as independently verified measurements.
+
+---
 
 ## Research Areas
 
@@ -39,9 +53,11 @@ Some original experimental media are no longer available for direct quantitative
 - Experimental optics
 - Multiphysics experimental systems
 
+---
+
 ## Current Research Direction
 
-The next stage of the project is controlled measurement of:
+The next experimental phase focuses on controlled measurement of:
 
 - Optical power
 - Temperature
@@ -49,32 +65,54 @@ The next stage of the project is controlled measurement of:
 - Magnetic field
 - Mechanical motion
 - Optical polarization
-- Camera and display behavior
+- Camera behavior
+- Display behavior
 
 The objective is to determine which observations are explained by established multiphysics mechanisms and whether any reproducible residual remains after appropriate controls.
 
-## Research Package
-
-The complete public research package is archived on Zenodo.
-
-See the official Version 2.0 record:
-
-https://doi.org/10.5281/zenodo.21990399
+---
 
 ## Independent Review
 
-Researchers, engineers, and laboratories with relevant instrumentation are invited to independently examine, reproduce, challenge, or characterize the reported observations.
+Independent technical review is encouraged.
 
-The project specifically welcomes falsification-oriented analysis and conventional explanations where they adequately account for the observations.
+Researchers, engineers, physicists, experimentalists, and laboratories with appropriate instrumentation are invited to:
 
-## Author
+- Examine the documented observations
+- Reproduce the experimental configurations
+- Test proposed mechanisms
+- Identify conventional explanations
+- Challenge the interpretations
+- Suggest improved controls
+- Quantitatively characterize the system
 
-**Ulises Perez**
+Falsification and conventional explanations are considered valuable outcomes of the research process.
+
+---
+
+## Research Package
+
+The complete public research package is permanently archived through Zenodo.
+
+**Current Version 2.0 record:**  
+https://doi.org/10.5281/zenodo.21990399
+
+The repository provides a working public index of the research materials, while Zenodo provides the persistent archival record and DOI.
+
+---
+
+## Project Organization
 
 **Vanthrix Research**
 
+Independent experimental research and technical development.
+
+**Researcher:** Ulises Perez
+
+---
+
 ## License
 
-Research documentation is released under the Creative Commons Attribution 4.0 International license as specified by the Zenodo record.
+Research documentation is released under the Creative Commons Attribution 4.0 International license as specified by the corresponding Zenodo record.
 
-For citation, please use the DOI-linked Zenodo record.
+For formal citation, please cite the DOI-linked Zenodo record.
